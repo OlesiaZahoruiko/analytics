@@ -711,6 +711,7 @@ body {
   background: url(../img/footer/subtract-icon.svg) no-repeat;
 }
 .footer__menu {
+  display: flex;
   position: relative;
   z-index: 4;
 }
